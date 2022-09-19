@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 167,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 166,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1654,
-    "timeDay": 1654,
-    "timeWeek": 1654,
-    "timeMonth": 1654,
-    "timeYear": 1654,
+    "time": 1626,
+    "timeDay": 1626,
+    "timeWeek": 1626,
+    "timeMonth": 1626,
+    "timeYear": 1626,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 1488,
-    "timeWeek": 1488,
-    "timeMonth": 1488,
-    "timeYear": 1488,
+    "time": 1630,
+    "timeDay": 1630,
+    "timeWeek": 1630,
+    "timeMonth": 1630,
+    "timeYear": 1630,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "http://gitlab.bomsven.cn",
     "icon": "https://favicons.githubusercontent.com/gitlab.bomsven.cn",
     "slug": "gitlab-test",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1155,
-    "timeDay": 1155,
-    "timeWeek": 1155,
-    "timeMonth": 1155,
-    "timeYear": 1155,
+    "status": "up",
+    "uptime": "92.92%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "92.92%",
+    "time": 1254,
+    "timeDay": 1254,
+    "timeWeek": 1254,
+    "timeMonth": 1254,
+    "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-09-19": 0
+      "2022-09-19": 11
     }
   }
 ]
