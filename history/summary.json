@@ -58,19 +58,19 @@
     "url": "http://gitlab.bomsven.cn",
     "icon": "https://favicons.githubusercontent.com/gitlab.bomsven.cn",
     "slug": "bomsven",
-    "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "34.19%",
+    "uptimeDay": "34.19%",
+    "uptimeWeek": "34.19%",
+    "uptimeMonth": "34.19%",
+    "uptimeYear": "34.19%",
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2022-09-19": 15
+      "2022-09-19": 20
     }
   }
 ]
