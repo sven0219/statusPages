@@ -10,7 +10,7 @@ sites:
   - name: Apac-kr
     url: http://hilton.co.kr
   - name: Bomsven
-    url: http://www.bomsven.cn
+    url: http://gitlab.bomsven.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
