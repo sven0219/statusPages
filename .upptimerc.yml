@@ -9,7 +9,7 @@ sites:
     url: https://hiltonhotels.jp
   - name: Apac-kr
     url: http://hilton.co.kr
-  - name: Bomsven
+  - name: gitlab
     url: http://gitlab.bomsven.cn
 
 status-website:
