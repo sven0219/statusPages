@@ -10,11 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 161,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 177,
+    "timeDay": 215,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Gitlab",
+    "url": "http://gitlab.bomsven.com",
+    "icon": "https://favicons.githubusercontent.com/gitlab.bomsven.com",
+    "slug": "gitlab",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "9.34%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-21": 0,
+      "2022-09-19": 6
+    }
   }
 ]
