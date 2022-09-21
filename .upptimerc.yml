@@ -5,6 +5,8 @@ repo: statusPages # The name of this repository
 sites:
   - name: Blog
     url: https://www.svenshen.com
+  - name: Gitlab
+    url: http://gitlab.bomsven.com
 
 
 
