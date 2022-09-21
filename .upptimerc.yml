@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://www.svenshen.com
   - name: Gitlab
-    url: http://gitlab.bomsven.com
+    url: http://gitlab.bomsven.cn
 
 
 
