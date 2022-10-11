@@ -7,6 +7,10 @@ sites:
     url: https://www.svenshen.com
   - name: Gitlab
     url: http://gitlab.bomsven.cn
+  - name: BT
+    url: http://bt.bomsven.cn
+  - name: Test Blog
+    url: http://www.bomsven.cn
 
 
 
