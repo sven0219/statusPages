@@ -11,8 +11,12 @@ sites:
     url: http://bt.bomsven.cn
   - name: Test Blog
     url: http://www.bomsven.cn
-
-
+  - name: Love 
+    url: http://love.bomsven.cn
+  - name: CMS
+    url: http://cms.bomsven.cn
+  - name: Baidu
+    url: https://baidu.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
