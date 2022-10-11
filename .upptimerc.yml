@@ -17,6 +17,10 @@ sites:
     url: http://cms.bomsven.cn
   - name: Baidu
     url: https://baidu.com
+  - name: Google
+    url: https://www.google.com
+  - name: Github
+    url: https://www.github.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
