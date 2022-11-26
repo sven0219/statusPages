@@ -22,9 +22,9 @@
     "url": "http://bt.bomsven.cn",
     "icon": "https://icons.duckduckgo.com/ip3/bt.bomsven.cn.ico",
     "slug": "bt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 1092,
     "timeMonth": 1174,
     "timeYear": 1090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 0
+    }
   },
   {
     "name": "Test Blog",
     "url": "http://www.bomsven.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.bomsven.cn.ico",
     "slug": "test-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 1353,
     "timeMonth": 1446,
     "timeYear": 1440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 0
+    }
   },
   {
     "name": "Love",
     "url": "http://love.bomsven.cn",
     "icon": "https://icons.duckduckgo.com/ip3/love.bomsven.cn.ico",
     "slug": "love",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +73,18 @@
     "timeWeek": 760,
     "timeMonth": 778,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 0
+    }
   },
   {
     "name": "CMS",
     "url": "http://cms.bomsven.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cms.bomsven.cn.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +93,8 @@
     "timeWeek": 1115,
     "timeMonth": 1225,
     "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 0
+    }
   }
 ]
