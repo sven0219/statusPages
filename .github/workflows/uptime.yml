@@ -31,3 +31,9 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+      - name: Send Email
+        uses: cinotify/github-action@main
+        with:
+          to: 'swq1227@gmail.com'
+          subject: 'building main'
+          body: 'This is a notification from GitHub actions.'
